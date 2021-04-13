@@ -141,7 +141,7 @@ body {
 	font-size: 56px;
 	margin-bottom: 10px;
 	font-weight: 400;
-	color: #e74c3c;
+	color: #0e1ee2;
 }
 
 .squareContent h3 {
@@ -172,7 +172,7 @@ body {
 
 .contactButton:hover {
 	text-decoration: none;
-	color: #e74c3c;
+	color: #0e1ee2;
 	background-color: #fff;
 }
 
@@ -190,7 +190,7 @@ body {
 
 .filter .current {
 	background-color: #e74c3c;;
-	border-color: #e74c3c;
+	border-color: #0e1ee2;
 	color: #fff;
 }
 
@@ -324,7 +324,7 @@ body {
 }
 
 #navigation {
-	background-color: #e74c3c;
+	background-color: #0e1ee2;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
